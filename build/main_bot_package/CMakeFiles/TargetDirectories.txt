@@ -1,0 +1,9 @@
+/home/nagateja/main/build/main_bot_package/CMakeFiles/uninstall.dir
+/home/nagateja/main/build/main_bot_package/CMakeFiles/main_bot_package_uninstall.dir
+/home/nagateja/main/build/main_bot_package/CMakeFiles/test.dir
+/home/nagateja/main/build/main_bot_package/CMakeFiles/edit_cache.dir
+/home/nagateja/main/build/main_bot_package/CMakeFiles/rebuild_cache.dir
+/home/nagateja/main/build/main_bot_package/CMakeFiles/list_install_components.dir
+/home/nagateja/main/build/main_bot_package/CMakeFiles/install.dir
+/home/nagateja/main/build/main_bot_package/CMakeFiles/install/local.dir
+/home/nagateja/main/build/main_bot_package/CMakeFiles/install/strip.dir

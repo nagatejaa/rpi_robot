@@ -1,0 +1,15 @@
+/home/nagateja/main/install/main_bot_package/share/ament_index/resource_index/package_run_dependencies/main_bot_package
+/home/nagateja/main/install/main_bot_package/share/ament_index/resource_index/parent_prefix_path/main_bot_package
+/home/nagateja/main/install/main_bot_package/share/main_bot_package/environment/ament_prefix_path.sh
+/home/nagateja/main/install/main_bot_package/share/main_bot_package/environment/ament_prefix_path.dsv
+/home/nagateja/main/install/main_bot_package/share/main_bot_package/environment/path.sh
+/home/nagateja/main/install/main_bot_package/share/main_bot_package/environment/path.dsv
+/home/nagateja/main/install/main_bot_package/share/main_bot_package/local_setup.bash
+/home/nagateja/main/install/main_bot_package/share/main_bot_package/local_setup.sh
+/home/nagateja/main/install/main_bot_package/share/main_bot_package/local_setup.zsh
+/home/nagateja/main/install/main_bot_package/share/main_bot_package/local_setup.dsv
+/home/nagateja/main/install/main_bot_package/share/main_bot_package/package.dsv
+/home/nagateja/main/install/main_bot_package/share/ament_index/resource_index/packages/main_bot_package
+/home/nagateja/main/install/main_bot_package/share/main_bot_package/cmake/main_bot_packageConfig.cmake
+/home/nagateja/main/install/main_bot_package/share/main_bot_package/cmake/main_bot_packageConfig-version.cmake
+/home/nagateja/main/install/main_bot_package/share/main_bot_package/package.xml
