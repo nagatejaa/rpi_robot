@@ -310,6 +310,9 @@ message(STATUS "Execute custom install script")
 
 # begin of custom install code
 
+# install(DIRECTORY "config" "description" "launch" "worlds" "DESTINATION" "share/main_bot_package")
+ament_cmake_symlink_install_directory("/home/nagateja/main/src/main_bot_package" DIRECTORY "config" "description" "launch" "worlds" "DESTINATION" "share/main_bot_package")
+
 # install(FILES "/home/nagateja/main/build/main_bot_package/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/main_bot_package" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 ament_cmake_symlink_install_files("/home/nagateja/main/src/main_bot_package" FILES "/home/nagateja/main/build/main_bot_package/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/main_bot_package" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 
