@@ -1,1 +1,0 @@
-/home/nagateja/main/src/main_bot_package/launch/launch_robot.launch.py
